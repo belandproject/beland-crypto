@@ -1,6 +1,6 @@
 {
   "name": "beland-crypto",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Crypto auth for Beland",
   "main": "dist/index.js",
   "typings": "./dist/index.d.ts",
